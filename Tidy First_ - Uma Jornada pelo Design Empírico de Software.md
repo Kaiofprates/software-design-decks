@@ -1,7 +1,8 @@
 # Tidy First? - Uma Jornada pelo Design Empírico de Software
 ## Kent Beck
 
-![Tidy First Book Cover](https://m.media-amazon.com/images/I/61Ars9S1eoL._SY466_.jpg)
+![Tidy First Book Cover](tidy_first.jpg)
+[Compre o livro na Amazon](https://www.amazon.com.br/Tidy-First-Personal-Exercise-Empirical/dp/1098151240)
 
 ---
 
